@@ -1,0 +1,28 @@
+##basic design outline
+
+1. introduction
+    a. show hometown
+    b. introduce villagers
+    c. introduce hero(es)
+    
+2. conflict
+    a. hometown's conflict explained
+    b. introduce enemy/nemesis/issue
+    c. prepping to leave hometown
+    
+3. main
+    a. leveling/questing
+    b. gear
+    c. combat
+    d. finding a way to defeat enemy/nemesis/issue
+    
+4. climax & conflict resolution
+    a. boss fight
+    b. twist reveal*
+    c. final boss fight*
+
+5. resolution/wrap up
+    a. return to hometown
+    b. wrap up story
+    c. what happens to everyone
+    d. set up sequal
