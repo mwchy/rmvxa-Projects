@@ -5,3 +5,4 @@
 Font.default_name = [" "] 
 Font.default_size = 22 
 Graphics.resize_screen(640, 480)
+rgss_main { SceneManager.run }
